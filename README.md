@@ -1,51 +1,134 @@
-# portfolio-website
+<a name="readme-top"></a>
+
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [🛠️ Built With](#built-with)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
+- [⭐ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-portfolio-website
+<!-- PROJECT DESCRIPTION -->
 
-portfolio-website is a my 2nd project after the enrollment with Microverse.This is the Project about creating mobile responsive portfolio website for ourselves using HTML and CSS.We learned different concept of HTML and CSS while woriking on this project.
+# 📖 Portfolio <a name="about-project"></a>
 
-## 🛠 Built With <a name="built-with"></a>
+- This website shows a sneak peek into the projects I have developed and deployed, showcasing my skills in HTML and CSS.With a passion for web development, I have honed my expertise in these technologies to create stunning and functional websites.
 
-### Tech Stack <a name="tech-stack"></a>
+## 🛠️ Built With <a name="built-with"></a>
 
-This Project is built with HTML and CSS.
+- HTML
+- CSS
 
-### Key Features <a name="key-features"></a>
 
-- **[Portfolio Website Project with Microverse]**
-- **[Getting familiar with Github,HTML,CSS]**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## Key Features
 
-- [Live Demo Link](http://127.0.0.1:5500/index.html)
+- Use the Figma design for the project😊👌
+ - Use the semantics elements💯
+-  Use the linter for fixing errors .🚀
+- Use the flexbox to place the items 😃👍
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+
+Example command:
+
+```sh
+1.use a browser
+2.use cable internet
+```
+ 
 
 ### Setup
 
 Clone this repository to your desired folder:
 
+
 Example commands:
 
-  cd my-folder
-  git clone https://github.com/pushkar1995/portfolio-website.git
+```sh
+  
+  git clone git@github.com:pushkar1995/portfolio-website.git
+  cd portfolio-website
+
+
+```
+
+
+### Install
+
+Install this project with:
+
+
+Example command:
+
+```sh
+  npm install
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+Example command:
+
+```sh
+- Open the index with live server.
+- Or if you don't have a live server extension open the index in the browser by clicking on the file .
+```
+
+
+### Run tests
+
+To run tests, run the following command:
+
+
+Example command:
+
+```sh
+npx hint .
+npx eslint .
+```
+
+
+### Deployment
+
+You can deploy this project using:
+
+- Github Pages
+- Render.com
+- Netlify.com
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+
 
 👤 **Author1**
 
@@ -53,27 +136,53 @@ Example commands:
 - Twitter: [@Pushkar9951](https://twitter.com/Pushkar9951)
 - LinkedIn: [pushkargautam](https://www.linkedin.com/in/pushkar-gautam-94a385271/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Will be adding more information regarding this project]**
-- [ ] **[Design of the project will be optimized]**
-- [ ] **[Will be updating my Projects and Portfolio constantly]**
+- [ ] Add Javascript.
+- [ ] Add more styling.
+- [ ] Add add header and footer.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [Isuues Pages](https://github.com/pushkar1995/portfolio-website/issues)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐ Show your support <a name="support"></a>
+
+
+If you like this project kindly give it a star⭐.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding partners and microverse for making this project happen.
+
+I would like to thank Ekpenisi E Raphael for the immense support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/pushkar1995/portfolio-website/blob/main/LICENSE) licensed.
 
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
