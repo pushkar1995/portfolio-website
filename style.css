@@ -38,17 +38,17 @@ body {
 @media screen and (min-width: 375px) {
   .navbar-items {
     display: flex;
-    gap: 0.5rem
-   };
+    gap: 0.5rem;
+     }
 
   .navbar-items a {
     text-decoration: none;
     color: white;
-   }
+     }
 
   .fas {
     display: none;
-   }
+     }
 }
 
 .headline-container {
@@ -58,14 +58,14 @@ body {
   min-height: 100%;
   background-image: url('/assets/Illustration.png');
   background-repeat: no-repeat;
-  background-attachment: fixed ;
+  background-attachment: fixed;
   background-position: right bottom;
   overflow: hidden;
 }
 
 .heading-text {
   margin-top: 7.5rem;
-  color: #FF6B00;
+  color: #ff6b00;
   font-size: 3.5rem;
   font-weight: 400;
 }
