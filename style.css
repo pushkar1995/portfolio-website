@@ -39,16 +39,16 @@ body {
   .navbar-items {
     display: flex;
     gap: 0.5rem;
-     }
+  }
 
   .navbar-items a {
     text-decoration: none;
     color: white;
-     }
+  }
 
   .fas {
     display: none;
-     }
+  }
 }
 
 .headline-container {
