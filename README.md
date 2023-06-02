@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
-
 <!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -29,7 +27,6 @@
 - HTML
 - CSS
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Key Features
@@ -43,14 +40,11 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
 
 Example command:
 
@@ -58,12 +52,9 @@ Example command:
 1.use a browser
 2.use cable internet
 ```
- 
-
 ### Setup
 
 Clone this repository to your desired folder:
-
 
 Example commands:
 
@@ -72,10 +63,7 @@ Example commands:
   git clone git@github.com:pushkar1995/portfolio-website.git
   cd portfolio-website
 
-
 ```
-
-
 ### Install
 
 Install this project with:
@@ -86,8 +74,6 @@ Example command:
 ```sh
   npm install
 ```
-
-
 ### Usage
 
 To run the project, execute the following command:
@@ -99,12 +85,9 @@ Example command:
 - Open the index with live server.
 - Or if you don't have a live server extension open the index in the browser by clicking on the file .
 ```
-
-
 ### Run tests
 
 To run tests, run the following command:
-
 
 Example command:
 
@@ -112,8 +95,6 @@ Example command:
 npx hint .
 npx eslint .
 ```
-
-
 ### Deployment
 
 You can deploy this project using:
@@ -122,13 +103,10 @@ You can deploy this project using:
 - Render.com
 - Netlify.com
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
 
 👤 **Author1**
 
@@ -139,7 +117,6 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] Add Javascript.
@@ -149,40 +126,31 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [Isuues Pages](https://github.com/pushkar1995/portfolio-website/issues)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
-
 ## ⭐ Show your support <a name="support"></a>
-
 
 If you like this project kindly give it a star⭐.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 I would like to thank Ekpenisi E Raphael for the immense support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/pushkar1995/portfolio-website/blob/main/LICENSE) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
