@@ -54,14 +54,14 @@ header {
   font-weight: 400;
   font-size: 56px;
   line-height: 64px;
-  font-family: 'Crete Round';
+  font-family: 'Crete Round' sans-serif;
   color: #ff6b00;
 }
 
 .subheader {
   width: 327px;
   height: 27px;
-  font-family: 'Roboto';
+  font-family: 'Roboto' sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -74,7 +74,7 @@ header {
 .description-text {
   width: 327px;
   height: 123px;
-  font-family: 'Poppins';
+  font-family: 'Poppins' sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
