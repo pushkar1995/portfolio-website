@@ -39,8 +39,8 @@ body {
 }
 
 .headline-container {
-  display: flex;   
-  flex-direction: column;  
+  display: flex;
+  flex-direction: column;
   height: auto;
   width: 100%;
   padding: 120px 24px;
@@ -52,10 +52,10 @@ body {
   background-size: 8.5rem;
   background-position: right bottom;
   overflow: hidden;
-  gap:12px;
+  gap: 12px;
   justify-content: space-between;
   bottom: 30px;
-}	
+}
 
 .heading-text {
   margin-top: 7.5rem;
