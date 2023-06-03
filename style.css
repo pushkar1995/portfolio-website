@@ -61,7 +61,7 @@ body {
   color: #ff6b00;
   width: 327px;
   height: 124px;
-  font-family: 'Crete Round',sans-serif;
+  font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
@@ -70,7 +70,7 @@ body {
 
 .subheader {
   color: #fff5e1;
-  font-family: 'Roboto',sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -82,7 +82,7 @@ body {
 .description-text {
   width: 327px;
   height: 123px;
-  font-family: 'Poppins',sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -339,7 +339,7 @@ li {
 
 .builtWith {
   margin-top: 0;
-  padding-left:7px;
+  padding-left: 7px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
