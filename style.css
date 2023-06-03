@@ -9,9 +9,7 @@ header {
   justify-content: space-between;
   align-items: center;
   background: #3c3a39;
-  position: absolute;
-  width: 375px;
-  height: 92px;
+  height: 4.5rem;
 }
 
 .logo-container {
@@ -38,56 +36,36 @@ header {
   background: #1c1a19;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   padding: 120px 24px;
-  gap: 12px;
-  position: absolute;
-  width: 375px;
-  height: 590px;
-  top: 92px;
+  min-height: 100%;
 }
 
 .heading-text {
-  width: 327px;
-  height: 124px;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 56px;
-  line-height: 64px;
-  font-family: 'Crete Round', serif;
+  margin-top: 7.5rem;
   color: #ff6b00;
+  font-size: 3.5rem;
+  font-weight: 400;
+  font-family: 'Crete Round', serif;
 }
 
 .subheader {
-  width: 327px;
-  height: 27px;
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 32px;
-  display: flex;
-  align-items: center;
   color: #fff5e1;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
 }
 
 .description-text {
-  width: 327px;
-  height: 123px;
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #fff;
+  color: white;
+  font-size: 1rem;
+  margin-top: 1.5rem;
 }
 
 .icon-wrap {
   display: flex;
   margin-top: 1.5rem;
-  background: #1c1a19;
-  width: 228px;
-  height: 590px;
+  width: 171px;
 }
 
 ul {
@@ -100,11 +78,10 @@ li {
 
 .background {
   position: absolute;
-  bottom: 265px;
-  right: -18px;
-  width: 170px;
-  height: 100px;
-  background-image: url(/assets/background-image.png);
+  bottom: 290px;
+  right: -5px;
+  width: 150px;
+  height: 100px; 
   background-repeat: no-repeat;
   background-size: cover;
 }
